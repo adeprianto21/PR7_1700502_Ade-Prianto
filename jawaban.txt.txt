@@ -1,0 +1,9 @@
+Nama : Ade Prianto
+NIM  : 1700502
+
+Jawaban
+1. Left Join, akan menampilkan semua data yang ada di tabel yang dideklarasikan disebelah kiri, ketika data di tabel yang dideklarasikan disebelah kiri tidak memiliki data yang berelasi dengan tabel yang kanan, maka data akan  menampilkan null.
+
+2. Right Join, akan menampilkan semua data yang ada di tabel yang dideklarasikan disebelah kanan, ketika data di tabel yang dideklarasikan disebelah kanan tidak memiliki data yang berelasi dengan tabel yang kiri, maka data akan  menampilkan null.
+
+3. Inner Join, akan menampilkan semua data yang memiliki relasi saja, yang tidak memiliki relasi (null) tidak akan ditampikan.
